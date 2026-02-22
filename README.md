@@ -12,7 +12,7 @@ This repository hosts the public **Privacy Policy** and **Support** pages for th
 
 ## Contact
 
-support@kerstan.dev
+appsupport@wichtelimwald.de
 
 ## Notes
 
